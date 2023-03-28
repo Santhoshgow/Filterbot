@@ -22,7 +22,7 @@ Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴩ Nᴏᴡ 👇</b>"""
     PONG_TXT = """Cʜᴇᴄᴋ Mʏ Pɪɴɢ Bʏ Cʟɪᴄᴋɪɴɢ 👉 /ping"""
 
     ABOUT_TXT = """<b>🤖 ᴍʏ ɴᴀᴍᴇ : <a href=http://t.me/Kicchaautofilterbot>𝐊𝐈𝐂𝐂𝐇𝐀</a>
-👨‍💻 ᴅᴇᴠᴇʟᴏᴘᴇʀ : <a href=https://t.me/kicchamovies>KICCHA</a>
+👨‍💻 ᴅᴇᴠᴇʟᴏᴘᴇʀ : <a href=https://t.me/kicchamovies>sʜᴀʀᴀᴛʜ</a>
 📝 ʟᴀɴɢᴜᴀɢᴇ : ᴘʏʀᴏɢʀᴀᴍ
 📚 ꜰʀᴀᴍᴇᴡᴏʀᴋ : ᴘʏᴛʜᴏɴ 3
 📡 ʜᴏsᴛᴇᴅ ᴏɴ : ғʀᴇᴇ ʜᴏsᴛɪɴɢ
@@ -31,13 +31,13 @@ Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴩ Nᴏᴡ 👇</b>"""
 
     SOURCES_TXT = """Tʜɪs Is Aɴ Oᴩᴇɴ-Sᴏᴜʀᴄᴇ Pʀᴏᴊᴇᴄᴛ Bʏ @kicchamovies
 
-- 100﹪ Cᴏᴅᴇᴅ Bʏ <a href=>sʜᴀʀᴀᴛʜ</a>
+- 100﹪ Cᴏᴅᴇᴅ Bʏ <a href=https://t.me/kicchamovies>sʜᴀʀᴀᴛʜ</a>
 
 - & Rᴇᴩᴏ Lɪɴᴋ 👇 Hᴇʀᴇ"""
 
     SOURCE_TXT = """Tʜɪs Is Aɴ Oᴩᴇɴ-Sᴏᴜʀᴄᴇ Pʀᴏᴊᴇᴄᴛ Bʏ @kicchamovies</b>
 
-- 100﹪ Cᴏᴅᴇᴅ Bʏ <a href=>sʜᴀʀᴀᴛʜ</a></b>
+- 100﹪ Cᴏᴅᴇᴅ Bʏ <a href=https://t.me/kicchamovies>sʜᴀʀᴀᴛʜ</a></b>
 
 - Rᴇᴩᴏ Lɪɴᴋ 👇 Hᴇʀᴇ"""
 
