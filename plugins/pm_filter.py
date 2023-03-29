@@ -495,7 +495,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
         ],[
             InlineKeyboardButton('🔭 Sᴛᴀᴛs 📊', callback_data='stats')
         ],[
-            InlineKeyboardButton('😊 Sᴏᴜʀᴄᴇ Cᴏᴅᴇ ☺', url='https://Github.com/TamilanBotsZ/PremiumFilter')
+            InlineKeyboardButton('😊 Sᴏᴜʀᴄᴇ Cᴏᴅᴇ ☺', url='https://github.com/AshokChakravarthy666/Filterbot')
         ],[
             InlineKeyboardButton('‹‹‹ Bᴀᴄᴋ', callback_data='about')
         ]]       
