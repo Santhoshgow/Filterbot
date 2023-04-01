@@ -63,7 +63,7 @@ LOG_STR += ("Spell Check Mode Is Enabled, bot will be suggesting related movies 
 LOG_STR += (f"MAX_LIST_ELM Found, long list will be shortened to first {MAX_LIST_ELM} elements\n" if MAX_LIST_ELM else "Full List of casts and crew will be shown in imdb template, restrict them by adding a value to MAX_LIST_ELM\n")
 LOG_STR += f"Your current IMDB template is {IMDB_TEMPLATE}"
 
-HOW_TO_DOWNLOAD =  environ.get('HOW_TO_DOWNLOAD', 'https://t.me/linkbypasser/76')
+HOW_TO_DOWNLOAD =  environ.get('HOW_TO_DOWNLOAD', 'https://t.me/by_pass_link42/3')
 
 AUTO_DELETE_SECONDS = int(environ.get('AUTO_DELETE_SECONDS', '10'))
 
@@ -71,4 +71,4 @@ FILE_REQ_CHANNEL = int(environ.get('FILE_REQ_CHANNEL', LOG_CHANNEL))
 
 SHORTNER_SITE =  environ.get('SHORTNER_SITE', 'tnlink.in') #Put Only Shortner Site domain don't put like this https://tnlink.in/
 
-SHORTNER_API =  environ.get('SHORTNER_API', 'f7234c036d986aecbf6ef716f470cbe4f0480152')
+SHORTNER_API =  environ.get('SHORTNER_API', 'cc626cfd7b2b8330a8f852733d3288a23c08329d')
